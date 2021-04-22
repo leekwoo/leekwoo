@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![leekw's github stats](https://github-readme-stats.vercel.app/api?username=leekw&show_icons=true)
+![leekw's github stats](https://github-readme-stats.vercel.app/api?username=leekwoo&show_icons=true)
 ![leekw's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lkw02)
